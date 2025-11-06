@@ -62,3 +62,13 @@ In this assignment, I implemented and benchmarked four standard sorting algorith
 - `MasterTheoremWorksheet.pdf` contains my notes on the Master Theorem, as well as solutions to [MIT's Intro to Algorithms Master Theorem Worksheet](https://courses.csail.mit.edu/6.046/spring02/handouts/master.pdf)
 
 ## Assignment 05: Divide-And-Conquer Algorithms and Dynamic Programming
+
+## Assignment 06: Individual Deep Dive
+
+### Overview
+
+This assignment was an open-ended midterm project. I chose to explore the Q-Learning algorithm, and ended up doing some extensive implementation and benchmarking as I learned more about it!
+
+That project doesn't live in this repository; instead, [please find the repo linked here](https://github.com/itannermahncke/stochastic_q-learning_navigation) and [my project report here.](https://github.com/itannermahncke/stochastic_q-learning_navigation/blob/main/docs/report.md)
+
+## Assignment 07: Associative Arrays
